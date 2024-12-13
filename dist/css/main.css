@@ -1,0 +1,17 @@
+
+/* general styles */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family:'Dosis', san-serif;
+    line-height: 1.6;
+    background: #fff;
+}
+
+a{
+    text-decoration: none;
+}
